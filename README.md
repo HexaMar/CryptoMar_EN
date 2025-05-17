@@ -3,6 +3,29 @@
 CryptoMar is a high-performance Bitcoin wallet brute-force tool based on a custom C++ library, optimized for macOS and Windows. The program supports the generation and search of private keys and Bech32 (P2WPKH) Bitcoin addresses at high speed, featuring a user-friendly interface aimed at regular users.
 
 ---
+```bash
+ _____________________________________________________________________
+|============================ Welcome to =============================|
+|                              ᴄʀʏᴘᴛᴏᴍᴀʀ                              |
+|============================ Version 1.0 ============================|
+|                                                                     |
+|  Rate: 1 BTC = 103293 USD. (2025-05-18 00:00:11)                    |
+|  Setup completed.                                                   |
+|  Please wait, the process will start soon...                        |
+|-------------------- Loading addresses into memory ------------------|
+|  Loaded 208478 addresses.                                           |
+|---------------------------------------------------------------------|
+|============================ In Progress ============================|
+|                              ᴄʀʏᴘᴛᴏᴍᴀʀ                              |
+|============================ Version 1.0 ============================|
+|  The key search process is not fast.                                |
+|  It can take days or even weeks.                                    |
+|  It all depends on your processor's power and luck.                 |
+|_____________________________________________________________________|
+|                                                                     |
+| 788681.99 addresses/s            Total: 5667243744                  |
+```
+---
 
 ## 🚀 Features
 
