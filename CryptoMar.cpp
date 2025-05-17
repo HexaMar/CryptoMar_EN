@@ -1,4 +1,4 @@
-// Библиотека на C++ для максимально еффективной генерации ключей и адресов на MacM1
+// A C++ library for maximum efficient key and address generation
 
 #include <pybind11/pybind11.h>
 #include <openssl/rand.h>
