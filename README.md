@@ -97,3 +97,4 @@ If the program exits without finding the file, ensure all required files are in 
 ## 💡 Support
 
 For support, contact the developer or create an issue on GitHub.
+Before using, please review the [Terms of Use](https://github.com/HexaMar/CryptoMar_EN/blob/main/README.txt)
