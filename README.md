@@ -69,30 +69,17 @@ Brute-forcing private keys is a matter of substantial time and computational pow
 
 ### 🍎 For macOS
 
-1. Download the file `cryptomar.bin`
+1. Download the file `CryptoMar.zip`
 
-2. Download the file `P2WPKH.nonzero.txt` (database of addresses with balances).
+2. Open the file `CryptoMar.zip` in Download folder
 
 3. Open the terminal, enter the following, and press Enter:
 
    ```bash
-   cd /Users/username/Downloads
+   xattr -rd com.apple.quarantine ~/Downloads/CryptoMar.app
    ```
 
-   *(Replace `username` with your user name)*
-
-4. Allow execution by entering the following and pressing Enter (you may be prompted for your password):
-
-   ```bash
-   sudo xattr -rd com.apple.quarantine ~/Downloads/*
-   chmod +x ./cryptomar.bin
-   ```
-
-5. Launch the program:
-
-   ```bash
-   ./cryptomar.bin
-   ```
+4. Launch the program `CryptoMar.app`
 
 ## ⚡ Paid and Free Versions
 
