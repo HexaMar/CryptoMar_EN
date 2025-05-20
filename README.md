@@ -12,7 +12,7 @@ CryptoMar is a high-performance Bitcoin wallet brute-force tool based on a custo
 |  Setup completed.                                                   |
 |  Please wait, the process will start soon...                        |
 |-------------------- Loading addresses into memory ------------------|
-|  Loaded 19144165 addresses.                                         |
+|  Loaded 18226528 addresses.                                         |
 |---------------------------------------------------------------------|
 |============================ In Progress ============================|
 |                              ᴄʀʏᴘᴛᴏᴍᴀʀ                              |
@@ -50,7 +50,7 @@ CryptoMar is a high-performance Bitcoin wallet brute-force tool based on a custo
 
 ## 🌐 How Many Wallets with Balances?
 
-As of early May 2025, the program's database contains **19144165** Bech32 (P2WPKH) addresses** with confirmed balances.
+As of early May 2025, the program's database contains **18226528** Bech32 (P2WPKH) addresses** with confirmed balances.
 
 
 ## ❓ Why Is the Author Sharing This Program?
