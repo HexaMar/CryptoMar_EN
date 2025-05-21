@@ -3,26 +3,38 @@
 CryptoMar is a high-performance Bitcoin wallet brute-force tool based on a custom C++ library, optimized for macOS and Windows. The program supports the generation and search of private keys and Bech32 (P2WPKH) Bitcoin addresses at high speed, featuring a user-friendly interface aimed at regular users.
 
 ```bash
- _____________________________________________________________________
-|============================ Welcome to =============================|
-|                              ᴄʀʏᴘᴛᴏᴍᴀʀ                              |
-|============================ Version 1.0 ============================|
-|                                                                     |
-|  Rate: 1 BTC = 103293 USD. (2025-05-18 00:00:11)                    |
-|  Setup completed.                                                   |
-|  Please wait, the process will start soon...                        |
-|-------------------- Loading addresses into memory ------------------|
-|  Loaded 18226528 addresses.                                         |
-|---------------------------------------------------------------------|
-|============================ In Progress ============================|
-|                              ᴄʀʏᴘᴛᴏᴍᴀʀ                              |
-|============================ Version 1.0 ============================|
-|  The key search process is not fast.                                |
-|  It can take days or even weeks.                                    |
-|  It all depends on your processor's power and luck.                 |
-|_____________________________________________________________________|
-|                                                                     |
-| 788681.99 addresses/s            Total: 5667243744                  |
+|=========================================================================================|
+|                                                                                         |
+|                 _____                      _           __  __                           |
+|                / ____|                    | |         |  \/  |                          |
+|               | |      _ __  _   _  _ __  | |_   ___  | \  / |  __ _  _ __              |
+|               | |     | '__|| | | || '_ \ | __| / _ \ | |\/| | / _` || '__|             | 
+|               | |____ | |   | |_| || |_) || |_ | (_) || |  | || (_| || |                |
+|                \_____||_|    \__, || .__/  \__| \___/ |_|  |_| \__,_||_|                |
+|                               __/ || |                                                  |
+|                              |___/ |_|                                                  |
+|                                                                                         |
+|====================================== Welcome to =======================================|
+|                                        ᴄʀʏᴘᴛᴏᴍᴀʀ                                        |
+|====================================== Version 1.1 ======================================|
+|                                                                                         |
+|  Rate: 1 BTC = 106267 USD. (2025-05-21 13:16:01)                                        |
+|  Setup completed.                                                                       |
+|  Please wait, the process will start soon...                                            |
+|                                                                                         |
+|------------------------------ Loading addresses into memory ----------------------------|
+|  Loaded 15394750 addresses.                                                             |
+|-----------------------------------------------------------------------------------------|
+|                                                                                         |
+|====================================== In Progress ======================================|
+|                                        ᴄʀʏᴘᴛᴏᴍᴀʀ                                        |
+|====================================== Version 1.1 ======================================|
+|  The key search process is not fast.                                                    |
+|  It can take days or even weeks.                                                        |
+|  It all depends on your processor's power and luck.                                     |
+|_________________________________________________________________________________________|
+|                                                                                         |
+| 44015.36 addresses/s                       Total: 303934842                             |
 ```
 
 ## 🚀 Features
